@@ -3,7 +3,7 @@
 <hr><h1 align="center">Hi 👋, I'm Nikhar Behera</h1>
 <h2 align="center">Full Stack Web Developer</h2><hr>
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=biswabaibhab007&&style=flat-square" align="left" /><br>
+<img src="https://komarev.com/ghpvc/?username=soulnikhar&&style=flat-square" align="left" /><br>
 </div>  
 <img align="right"  width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding gif">
 
@@ -40,6 +40,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=biswabaibhab007&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=biswabaibhab007&theme=dark&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=biswabaibhab007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=soulnikhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=soulnikhar&theme=dark&hide_border=false) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soulnikhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
