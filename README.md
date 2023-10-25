@@ -34,3 +34,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=soulnikhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soulnikhar&theme=dark&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soulnikhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![An image of @nikharbehera's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soulnikhar)](https://www.holopin.io/@soulnikhar#)
